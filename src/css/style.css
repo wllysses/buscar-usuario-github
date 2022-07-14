@@ -223,7 +223,7 @@ body {
     
 }
 
-@media(max-width: 450px) {
+@media(max-width: 333px) {
     .search .input-search #search-profile {
         margin-bottom: 20px;
     }
